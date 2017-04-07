@@ -31,6 +31,33 @@ Use `>` to quote somethink
 >2. maybe you can.
 > - By Someone.
 
+## Code
+
+### Code with `4 spaces` or `2 tabs`:
+    function foo() {
+      a = 1;
+      b = 2;
+      return a + b;
+    }
+
+### Code with ` ``` ` (fencing):
+```
+function foo() {
+  a = 1;
+  b = 2;
+  return a + b;
+}
+```
+
+### Code with ` ``` ` (fencing) + `language`:
+```JavaScript
+function foo() {
+  a = 1;
+  b = 2;
+  return a + b;
+}
+```
+
 ## Emojis
 
 Some Emojis: :+1:; :hand:; :punch:; :exclamation: and :question:.
